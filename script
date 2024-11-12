@@ -1,0 +1,12 @@
+Each of these models brings a unique perspective on risk, covering diverse but complementary signals: voice analysis, text interpretation through a large language model, and transaction-based domain features. Together, they create a more accurate, comprehensive view of risk."||
+
+
+
+The first component is a voice analysis model. Here, we're working with Mel-frequency cepstral coefficients (MFCC) and spectral features, which capture key audio characteristics such as tone, pitch, and rhythm. By analyzing these vocal patterns, our model detects subtle signals of risk that are often imperceptible to the human ear, providing a preliminary risk score based on voice cues."
+
+Next, we have an LLM-based model that reads through the transcript of the conversation. Leveraging the strengths of large language models, this component captures nuanced patterns within the language, like word choice, sentiment, and topic relevance. Essentially, it reads between the lines to detect any subtle indications of risk based on text analysis alone."
+
+"By analyzing transcripts in this way, the LLM provides insights into what’s being said, identifying signals that may suggest non-compliance, evasion, or misalignment with expected patterns in dialogue."
+
+
+"Our third model focuses on domain-based features derived from client and transaction data. These include specific indicators tied to the client's historical behavior, transaction frequency, financial patterns, and any anomalies in recent transactions. This model draws on data-driven insights unique to our domain to provide a contextual risk score."
