@@ -1,0 +1,23 @@
+Rule Recap:
+"Lending account third-party pledge to FA family or FA associated trust account."
+
+Explanation of Each Element:
+Lending Account:
+This is the account through which ms is lending or allowing the client to access borrowed funds.
+The lending account is where the borrowed money will be disbursed, and the associated liabilities will appear for the client.
+Third-Party Pledge:
+This means the collateral (securities or assets) pledged against the loan does not necessarily come from the lending account itself but from a third-party source.
+In this context, the "third-party" refers to an account or asset that the primary borrower (client) may not own outright but has legal permission to pledge, such as a family member's or another entity's account.
+FA Family Account:
+FA stands for Financial Advisor. An "FA family account" refers to accounts associated with the financial advisor’s family members.
+This type of account can serve as a collateral source, meaning the advisor’s family’s assets or securities can be used as collateral for the client’s borrowing needs.
+FA Associated Trust Account:
+An "FA associated trust account" represents a trust account linked to the Financial Advisor.
+Similar to family accounts, these accounts hold assets (like securities or other investments) that may be used as collateral for the client’s borrowing.
+Trust accounts typically have legal frameworks that permit using the assets within them as collateral under specific conditions.
+Rule Summary:
+This rule specifies that when a client wants to borrow money from ms through a lending account, they can secure that loan by pledging assets from specific third-party sources. In this case, the rule allows the client to pledge assets that belong to either:
+
+A Financial Advisor's family account, or
+A trust account associated with the Financial Advisor.
+The purpose of this rule is likely to enhance borrowing flexibility by broadening collateral sources, thus enabling clients to tap into assets beyond their personal accounts.
