@@ -1,0 +1,6 @@
+Activity	Duration (days)	Depends On
+Start	0	-
+Task A	3	Start
+Task B	5	Start
+Task C	4	Task A
+End	0	Task C, Task B
