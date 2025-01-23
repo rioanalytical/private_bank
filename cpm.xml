@@ -1,0 +1,49 @@
+<mxfile>
+  <diagram name="Critical Path Method Timeline">
+    <mxGraphModel dx="1024" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Start Node -->
+        <mxCell id="2" value="Start" style="ellipse;whiteSpace=wrap;html=1;strokeColor=black;fillColor=lightgreen;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Task A -->
+        <mxCell id="3" value="Task A: 3 Days" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=black;fillColor=lightblue;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Task B -->
+        <mxCell id="4" value="Task B: 5 Days" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=black;fillColor=lightblue;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Task C -->
+        <mxCell id="5" value="Task C: 4 Days" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=black;fillColor=lightblue;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- End Node -->
+        <mxCell id="6" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeColor=black;fillColor=lightgreen;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Connections -->
+        <mxCell id="7" edge="1" source="2" target="3" parent="1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" edge="1" source="2" target="4" parent="1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" source="3" target="5" parent="1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" source="5" target="6" parent="1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
